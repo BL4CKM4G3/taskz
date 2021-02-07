@@ -1,6 +1,14 @@
 # Taskz
 
-![](src/assets/preview.gif)
+# Desktop
+<p align="center">
+![Preview Desktop](src/assets/preview.gif)
+</p>
+
+# Mobile
+<p align="center">
+![Preview Mobile](src/assets/preview-mobile.git)
+</p>
 
 # Description
 Another Study Case to skill improvement.
