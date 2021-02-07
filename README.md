@@ -1,5 +1,9 @@
-# taskz
+# Taskz
 
+![](src/assets/preview.gif)
+
+# Description
+Another Study Case to skill improvement.
 ## Project setup
 ```
 yarn install
