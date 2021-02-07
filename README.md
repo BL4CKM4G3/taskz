@@ -2,12 +2,12 @@
 
 # Desktop
 <p align="center">
-![Preview Desktop](src/assets/preview.gif)
+<img src="src/assets/preview.gif" alt="Preview Desktop">
 </p>
 
 # Mobile
 <p align="center">
-![Preview Mobile](src/assets/preview-mobile.git)
+<img src="src/assets/preview-mobile.git" alt="Preview Mobile">
 </p>
 
 # Description
