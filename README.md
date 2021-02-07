@@ -7,7 +7,7 @@
 
 # Mobile
 <p align="center">
-<img src="src/assets/preview-mobile.git" alt="Preview Mobile">
+<img src="src/assets/preview-mobile.gif" alt="Preview Mobile">
 </p>
 
 # Description
